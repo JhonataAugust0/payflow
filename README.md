@@ -30,6 +30,19 @@ But while it's not as popular as the other methods, that doesn't mean it has to 
 - Firebase
 - Query Statements
 
+<br />
 
+## :eyes: Project interface
+<br />
+
+The project prototype was built on the FIGMA platform and by [@TiagoLuchtenberg](https://www.instagram.com/tiagoluchtenberg/) and it was beautiful!
+here are some of the screens below:
 
 <br />
+
+<p align="center">
+  <img alt="gameplay" src=".github/assets/screens.png" width="620px" /> 
+</p>
+
+<br />
+
