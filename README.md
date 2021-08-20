@@ -46,3 +46,20 @@ here are some of the screens below:
 
 <br />
 
+## :wrench: Putting the project to run
+<br />
+```
+First, correctly configure the Flutter development environment on your maruina, see: https://flutter.dev/docs/get-started/install
+
+- Clone this repository:
+$ git clone https://github.com/JhonataAugust0/payflow.git
+
+- Enter the directory:
+$ cd payflow
+
+- Install dependencies:
+$ flutter pub get
+
+- Launch the app: 
+$ flutter run
+```
