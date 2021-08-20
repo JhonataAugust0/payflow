@@ -41,7 +41,7 @@ here are some of the screens below:
 <br />
 
 <p align="center">
-  <img alt="gameplay" src=".github/assets/screens.png" width="620px" /> 
+  <img alt="gameplay" src="./assets/images/screens.png" width="620px" /> 
 </p>
 
 <br />
