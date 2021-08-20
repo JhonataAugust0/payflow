@@ -63,3 +63,18 @@ $ flutter pub get
 - Launch the app: 
 $ flutter run
 ```
+
+<br />
+
+## :memo: License
+
+This project is under the [MIT license](LICENSE) for more details.
+<br />
+<br />
+
+## :wave: Social
+
+Follow @Jhonata on the networks :wink:
+<br />
+
+- [LinkedIn](https://www.linkedin.com/in/jhonata-augusto-2301541b5/)
