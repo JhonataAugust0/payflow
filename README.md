@@ -1,16 +1,19 @@
-# payflow
+<br />
+<br />
+<h1 align="center">
+  <img alt="letmeask" src="./assets/images/logofull.png" width="180px" /> 
+  <br />
+  <br />
+   Flutter | Google API  
+</h1>
 
-A new Flutter project.
+<p align="center">
+  <img alt="Rocketseat" src="https://img.shields.io/badge/Created%20by%3A-Rocketseat-%236D5CCD" />
+  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-%2398C611" />
+  <img alt="Typescript" src="https://img.shields.io/badge/Main%20lenguage-dart-%232F74C0" /> <br />
+</p> 
+<br />
+<br />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :bookmark: Resume
+<br />
