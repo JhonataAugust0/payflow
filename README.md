@@ -17,3 +17,19 @@
 
 ## :bookmark: Resume
 <br />
+Boletos are increasingly being replaced by more agile, convenient and secure payment methods. But there are certain occasions when it is necessary to use the bank slip as a form of payment.
+But while it's not as popular as the other methods, that doesn't mean it has to be pushed aside by technology. Payflow comes to help you with your payment slips and ensure that they are always up to date!
+<br />
+
+## :bulb: Contents covered
+<br />
+
+- Flutter
+- Google API's
+- Google mlkit
+- Firebase
+- Query Statements
+
+
+
+<br />
